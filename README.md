@@ -1,4 +1,3 @@
-# Hafta-Master
 <p align="center" style="color:blue;">
   <b>New version under active development — check out the <code>alpha</code> branch.</b>
 </p>
